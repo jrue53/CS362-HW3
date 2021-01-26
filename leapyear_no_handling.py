@@ -1,4 +1,3 @@
-
 print("Enter your year: ")
 year = input()
 
